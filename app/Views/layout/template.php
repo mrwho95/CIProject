@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Photography HTML-5 Template </title>
+    <title>MrWho Website</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
@@ -65,12 +65,12 @@
                                                     <li><a href="elements.html">Element</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="<?= base_url() ?>/contact">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
                                 <div class="header-right-btn f-right d-none d-lg-block ml-20">
-                                    <a href="contact.html" class="btn header-btn">Contact now</a>
+                                    <a href="<?= base_url() ?>/contact" class="btn header-btn">Contact now</a>
                                 </div>
                             </div>
                         </div>   

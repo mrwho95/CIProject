@@ -11,29 +11,8 @@
 				<div class="row">
 					<div class="col-xl-7 col-lg-7 col-md-8">
 						<div class="hero__caption">
-							<span data-animation="fadeInUp" data-delay=".4s">Creative Photographey</span>
-							<h1 data-animation="fadeInUp" data-delay=".6s">Photography Make us happy Take a shot.</h1>
-							<!-- Hero-btn -->
-							<div class="hero__btn">
-								<a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Watch Portfolio</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- Hero Man Img -->
-			<div class="hero-man">
-				<img src="assets/img/hero/hero_man1.png" alt="">
-			</div>
-		</div>
-		<!-- Single Slider -->
-		<div class="single-slider slider-height d-flex align-items-center">
-			<div class="container">
-				<div class="row">
-					<div class="col-xl-7 col-lg-7 col-md-8">
-						<div class="hero__caption">
-							<span data-animation="fadeInUp" data-delay=".4s">Creative Photographey</span>
-							<h1 data-animation="fadeInUp" data-delay=".6s">Photography Make us happy Take a shot.</h1>
+							<span data-animation="fadeInUp" data-delay=".4s">Creative Software Engineer</span>
+							<h1 data-animation="fadeInUp" data-delay=".6s">Programming Make us happy Lets start to program.</h1>
 							<!-- Hero-btn -->
 							<div class="hero__btn">
 								<a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Watch Portfolio</a>
@@ -56,9 +35,9 @@
 		<div class="row justify-content-between">
 			<div class="col-xl-5 col-lg-6">
 				<div class="about-caption2 mb-50">
-					<h3>HOW WE MAKE USER EXPERIENCES</h3>
+					<h3>HOW TO MAKE USER EXPERIENCES</h3>
 					<div class="send-cv">
-						<a href="#">hire@colorlib.com</a>
+						<a href="https://github.com/mrwho95">Mr Who Github</a>
 					</div>
 				</div>
 			</div>
@@ -66,12 +45,18 @@
 				<div class="about-caption mb-50">
 					<h3>You can’t use up creativity. The more you use, the
 					more you have in your signifant mind.</h3>
-					<p class="pera1"><span>SALVADOR DALI</span> Digital Artisit</p>
+					<p class="pera1"><span>Dennis Ngu Kee Hou</span>Software Engineer</p>
 					<div class="experience">
 						<div class="year">
-							<span>05</span>
+							<span>01</span>
 						</div>
-						<div class="year-details"><p>YEARS OF<br> DIGITAL EXPERIENCE</p></div>
+						<div class="year-details"><p>YEAR OF<br> MOBILE DEVELOPMENT</p></div>
+					</div>
+					<div class="experience">
+						<div class="year">
+							<span>02</span>
+						</div>
+						<div class="year-details"><p>YEARS OF<br> WEB DEVELOPMENT</p></div>
 					</div>
 				</div>
 			</div>
@@ -224,50 +209,24 @@
 				<!-- Section Tittle -->
 				<div class="section-tittle mb-30">
 					<h2>Take a look <br>at our achivment</h2>
-					<p>Excepteur sint occaecat cupidatat. irure dolor in.</p>
+					<!-- <p>Excepteur sint occaecat cupidatat. irure dolor in.</p> -->
 					<a href="#" class="btn">Get Start</a>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="single-brand text-center mb-30">
 					<img src="assets/img/gallery/brand1.png" alt="">
-					<p>Behance award</p>
-					<p>Prize 2019</p>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="single-brand text-center mb-30">
-					<img src="assets/img/gallery/brand02.png" alt="">
-					<p>Behance award</p>
-					<p>Prize 2019</p>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="single-brand text-center mb-30">
-					<img src="assets/img/gallery/brand2.png" alt="">
-					<p>Behance award</p>
-					<p>Prize 2019</p>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="single-brand text-center mb-30">
-					<img src="assets/img/gallery/brand3.png" alt="">
-					<p>Behance award</p>
-					<p>Prize 2019</p>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="single-brand text-center mb-30">
-					<img src="assets/img/gallery/brand4.png" alt="">
-					<p>Behance award</p>
-					<p>Prize 2019</p>
+					<p>Huawei Certified Network Associate</p>
+					<p>(HCNA)</p>
+					<p>June 2019</p>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="single-brand text-center mb-30">
 					<img src="assets/img/gallery/brand1.png" alt="">
-					<p>Behance award</p>
-					<p>Prize 2019</p>
+					<p>Brave Heart Award</p>
+					<p>SMK Sacred Heart</p>
+					<p>Nov 2014</p>
 				</div>
 			</div>
 		</div>
@@ -278,66 +237,14 @@
 	</div>
 </section>
 <!-- Brand Area End -->  
-<!--? Testimonial Start -->
-<div class="testimonial-area testimonial-padding">
-	<div class="container ">
-		<div class="row d-flex justify-content-center">
-			<div class="col-xl-11 col-lg-11 col-md-9">
-				<div class="h1-testimonial-active">
-					<!-- Single Testimonial -->
-					<div class="single-testimonial text-center">
-						<!-- Testimonial Content -->
-						<div class="testimonial-caption ">
-							<div class="testimonial-top-cap">
-								<img src="assets/img/gallery/testimonial.png" alt="">
-								<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>
-							</div>
-							<!-- founder -->
-							<div class="testimonial-founder d-flex align-items-center justify-content-center">
-								<div class="founder-img">
-									<img src="assets/img/gallery/Homepage_testi.png" alt="">
-								</div>
-								<div class="founder-text">
-									<span>Jessya Inn</span>
-									<p>Chif Photographer</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Single Testimonial -->
-					<div class="single-testimonial text-center">
-						<!-- Testimonial Content -->
-						<div class="testimonial-caption ">
-							<div class="testimonial-top-cap">
-								<img src="assets/img/gallery/testimonial.png" alt="">
-								<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>
-							</div>
-							<!-- founder -->
-							<div class="testimonial-founder d-flex align-items-center justify-content-center">
-								<div class="founder-img">
-									<img src="assets/img/gallery/Homepage_testi.png" alt="">
-								</div>
-								<div class="founder-text">
-									<span>Jessya Inn</span>
-									<p>Chif Photographer</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- Testimonial End -->
 <!--? Blog Area Start -->
-<section class="blogs-area section-padding30">
+<section class="blogs-area">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6">
 				<!-- Section Tittle -->
 				<div class="section-tittle text-center mb-30">
-					<h2>Tourist Blog</h2>
+					<h2>My Blog</h2>
 					<p>Our Recent Photos</p>
 				</div>
 			</div>

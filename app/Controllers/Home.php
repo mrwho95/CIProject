@@ -2,9 +2,17 @@
 
 class Home extends BaseController
 {
-	public function index()
+
+    public function  __construct()
+    {
+        parent::__construct();
+        $this->load->helper('url');
+    }
+
+    public function index()
 	{
-		return view('welcome_message');
+
+		return view('home');
 	}
 
 	//--------------------------------------------------------------------

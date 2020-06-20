@@ -13,15 +13,15 @@
 
     <!-- Stylesheets -->
 
-    <link href="<?php echo base_url('assets/common-css/bootstrap.css'); ?>" rel="stylesheet">
+    <link href="/common-css/bootstrap.css" rel="stylesheet">
 
-    <link href="<?php echo base_url('assets/common-css/ionicons.css'); ?>" rel="stylesheet">
+    <link href="/common-css/ionicons.css" rel="stylesheet">
 
-    <link href="<?php echo base_url('assets/common-css/fluidbox.min.css'); ?>" rel="stylesheet">
+    <link href="/common-css/fluidbox.min.css" rel="stylesheet">
 
-    <link href="<?php echo base_url('assets/01-cv-portfolio/css/styles.css'); ?>" rel="stylesheet">
+    <link href="/01-cv-portfolio/css/styles.css" rel="stylesheet">
 
-    <link href="<?php echo base_url('assets/01-cv-portfolio/css/responsive.css'); ?>" rel="stylesheet">
+    <link href="/01-cv-portfolio/css/responsive.css" rel="stylesheet">
 
 </head>
 <body>
@@ -374,21 +374,21 @@
 
 <!-- SCIPTS -->
 
-<script src="<?php echo base_url('common-js/jquery-3.2.1.min.js'); ?>"></script>
+<script src="/common-js/jquery-3.2.1.min.js"></script>
 
-<script src="<?php echo base_url('assets/common-js/tether.min.js'); ?>"></script>
+<script src="/common-js/tether.min.js"></script>
 
-<script src="<?php echo base_url('assets/common-js/bootstrap.js'); ?>"></script>
+<script src="/common-js/bootstrap.js"></script>
 
-<script src="<?php echo base_url('assets/common-js/isotope.pkgd.min.js'); ?>"></script>
+<script src="/common-js/isotope.pkgd.min.js"></script>
 
-<script src="<?php echo base_url('assets/common-js/jquery.waypoints.min.js'); ?>"></script>
+<script src="/common-js/jquery.waypoints.min.js"></script>
 
-<script src="<?php echo base_url('assets/common-js/progressbar.min.js'); ?>"></script>
+<script src="/common-js/progressbar.min.js"></script>
 
-<script src="<?php echo base_url('assets/common-js/jquery.fluidbox.min.js'); ?>"></script>
+<script src="/common-js/jquery.fluidbox.min.js"></script>
 
-<script src="<?php echo base_url('assets/common-js/scripts.js'); ?>"></script>
+<script src="/common-js/scripts.js"></script>
 
 </body>
 </html>

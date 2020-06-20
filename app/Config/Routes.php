@@ -36,6 +36,9 @@ $routes->add('home', 'Home::index');
 
 $routes->add('about', 'User\About::index');
 
+$routes->add('contact', 'User\Contact::index');
+
+
 
 
 /**

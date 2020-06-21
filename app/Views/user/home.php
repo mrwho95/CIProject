@@ -23,7 +23,7 @@
 			</div>
 			<!-- Hero Man Img -->
 			<div class="hero-man">
-				<img src="assets/img/hero/hero_man1.png" alt="">
+				<img src="assets/img/hero/hero.jpg" alt="">
 			</div>
 		</div>
 	</div>
@@ -78,8 +78,8 @@
 						<img src="assets/img/gallery/blog01.png" alt="">
 					</div>
 					<div class="team-caption">
-						<h3><a href="services.html">Creative Photography</a></h3>
-						<p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+						<h3><a href="<?= base_url() ?>/service">Web Development</a></h3>
+						<p>I specialize in website design and development services. My web experiences is high-performing, feature-packed and digitally transformative, designed to be user-friendly, fully functional, very secure and able to scale as your enterprise grows.</p>
 					</div>
 				</div>
 			</div>
@@ -89,8 +89,8 @@
 						<img src="assets/img/gallery/blog02.png" alt="">
 					</div>
 					<div class="team-caption">
-						<h3><a href="services.html">Wedding Photography</a></h3>
-						<p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+						<h3><a href="<?= base_url() ?>/service">Mobile Development</a></h3>
+						<p>Provide an android mobile application development services so you can reach your customers on their favorite devices.</p>
 					</div>
 				</div>
 			</div>
@@ -100,8 +100,8 @@
 						<img src="assets/img/gallery/blog03.png" alt="">
 					</div>
 					<div class="team-caption">
-						<h3><a href="services.html">Nature Photography</a></h3>
-						<p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+						<h3><a href="<?= base_url() ?>/service">Video Creation</a></h3>
+						<p>Provide stunning videos content and service in order to meet your requirements.</p>
 					</div>
 				</div>
 			</div>

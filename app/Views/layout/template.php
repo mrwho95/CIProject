@@ -45,7 +45,10 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2 col-md-1">
                             <div class="logo">
-                                <a href="<?= base_url() ?>/home"><img src="assets/img/logo/logo.png" alt=""></a>
+                                <a href="<?= base_url() ?>/home" style="font-size: 20pt;">
+                                    <!-- <img src="assets/img/logo/logo.png" alt=""> -->
+                                    Software Engineer
+                                </a>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-10">
@@ -56,16 +59,16 @@
                                         <ul id="navigation">
                                             <li><a href="<?= base_url() ?>/home">Home</a></li>
                                             <li><a href="<?= base_url() ?>/about">About</a></li>
-                                            <li><a href="gallery.html">Gallery</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="blog.html">Blog</a>
+                                            <li><a href="<?= base_url() ?>/gallery">Gallery</a></li>
+                                            <li><a href="<?= base_url() ?>/service">Services</a></li>
+                                            <li><a href="blog.html">Pages</a>
                                                 <ul class="submenu">
+                                                    <li><a href="blog.html">Portfolio</a></li>
                                                     <li><a href="blog.html">Blog</a></li>
                                                     <li><a href="blog_details.html">Blog Details</a></li>
                                                     <li><a href="elements.html">Element</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="<?= base_url() ?>/contact">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -96,12 +99,13 @@
                     <div class="col-xl-4 col-lg-4 col-md-5 col-sm-8">
                         <div class="single-footer-caption mb-50">
                             <!-- logo -->
-                            <div class="footer-logo">
+                            <!-- <div class="footer-logo">
                                 <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
-                            </div>
+                            </div> -->
                             <div class="footer-tittle">
+                                <h4>Software Engineer</h4>
                                 <div class="footer-pera">
-                                    <p class="info1">Grabbing the concsumer’s attention isn’t enough you have to keep that attention for at least a.</p>
+                                    <p class="info1">Seeking a challenging career with a progressive organization that provides an opportunity to capitalize my technical skills & abilities in the field in programming and networking.</p>
                                 </div>
                             </div>
                         </div>
@@ -111,16 +115,16 @@
                             <div class="footer-tittle">
                                 <h4>Navigation</h4>
                                 <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">Events</a></li>
-                                    <li><a href="#">Testimonial</a></li>
-                                    <li><a href="#">Categories</a></li>
-                                    <li><a href="#">Contacts</a></li>
+                                    <li><a href="<?= base_url() ?>/home">Home</a></li>
+                                    <li><a href="<?= base_url() ?>/about">About Me</a></li>
+                                    <li><a href="<?= base_url() ?>/gallery">Gallery</a></li>
+                                    <li><a href="<?= base_url() ?>/service">Services</a></li>
+                                    <li><a href="<?= base_url() ?>/contact">Contacts</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-2 col-lg-2 col-md-5 col-sm-6">
+                    <!-- <div class="col-xl-2 col-lg-2 col-md-5 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <h4>Useful Links</h4>
@@ -132,7 +136,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Instagram -->
                     <div class="col-xl-4 col-lg-4 col-md-5 col-sm-7">
                         <div class="single-footer-caption mb-50">

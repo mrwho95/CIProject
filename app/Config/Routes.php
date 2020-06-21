@@ -38,7 +38,9 @@ $routes->add('about', 'User\About::index');
 
 $routes->add('contact', 'User\Contact::index');
 
+$routes->add('service', 'User\Service::index');
 
+$routes->add('gallery', 'User\Gallery::index');
 
 
 /**
